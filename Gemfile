@@ -4,6 +4,8 @@ ruby '2.0.0'
 
 gem 'rails', '4.0.0'
 gem 'pg'
+gem 'flatstrap-sass', '2.3.1.0'
+gem 'font-awesome-rails'
 
 group :development, :test do
   gem 'rspec-rails', '2.13.1'
