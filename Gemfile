@@ -14,6 +14,7 @@ gem 'turbolinks', '1.1.1'
 gem 'jbuilder', '1.0.2'
 gem 'bcrypt-ruby'
 gem 'faker'
+gem 'will_paginate'
 
 group :development, :test do
   gem 'rspec-rails', '2.13.1'
