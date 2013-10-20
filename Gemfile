@@ -13,6 +13,7 @@ gem 'jquery-rails', '3.0.4'
 gem 'turbolinks', '1.1.1'
 gem 'jbuilder', '1.0.2'
 gem 'bcrypt-ruby'
+gem 'faker'
 
 group :development, :test do
   gem 'rspec-rails', '2.13.1'
